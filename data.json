@@ -405,5 +405,35 @@
                 "note": ""
             }
         ]
+    },
+    {
+        "type": "lower",
+        "date": "24/09/20",
+        "exercises": [
+            {
+                "exercise": "squats",
+                "weight": "+40", 
+                "reps": [30, 30],
+                "note": ""
+            },
+            {
+                "exercise": "lunges",
+                "weight": "+40", 
+                "reps": [36, 40],
+                "note": ""
+            },
+            {
+                "exercise": "deadlift",
+                "weight": "+40", 
+                "reps": [15, 12],
+                "note": "keep back straight to reduce lower back pain and push hip further back when going down"
+            },
+            {
+                "exercise": "calf raises",
+                "weight": "+20", 
+                "reps": [20, 20],
+                "note": "20"
+            }
+        ]
     }
 ]
