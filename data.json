@@ -435,5 +435,54 @@
                 "note": "20"
             }
         ]
+    }, 
+    {
+        "type": "volume anterior",
+        "date": "1/10/20",
+        "exercises": [
+            {
+                "exercise": "goblet squat",
+                "weight": "+20", 
+                "reps": [25, 25, 25],
+                "note": ""
+            },
+            {
+                "exercise": "Leg extension",
+                "weight": "bw", 
+                "reps": [15, 15, 15],
+                "note": ""
+            },
+            {
+                "exercise": "Incline Push Ups",
+                "weight": "", 
+                "reps": [20,20, 20],
+                "note": ""
+            },
+            {
+                "exercise": "Pike Push Ups",
+                "weight": "", 
+                "reps": [10, 10, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Diamond Push Ups",
+                "weight": "", 
+                "reps": [20, 20, 20],
+                "note": ""
+            },
+            {
+                "exercise": "Sissy Squat",
+                "weight": "", 
+                "reps": [9, 9, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Tricep Extensions",
+                "weight": "", 
+                "reps": [12, 12, 12],
+                "note": ""
+            },
+        ]
     }
+
 ]
