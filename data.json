@@ -483,6 +483,48 @@
                 "note": ""
             },
         ]
+    },
+    {
+        "type": "heavy posterior",
+        "date": "8/10/20",
+        "exercises": [
+            {
+                "exercise": "Nordic Curl Hinge",
+                "weight": "bw", 
+                "reps": [5, 5, 6, 6, 6],
+                "note": ""
+            },
+            {
+                "exercise": "Hip Thrust",
+                "weight": "+30", 
+                "reps": [8, 8, 8, 8, 8],
+                "note": ""
+            },
+            {
+                "exercise": "Weighted Pull Ups",
+                "weight": "+30", 
+                "reps": [5, 5, 5, 5, 5],
+                "note": ""
+            },
+            {
+                "exercise": "Decline Body Rows",
+                "weight": "+20", 
+                "reps": [8, 8, 8, 8, 8],
+                "note": ""
+            },
+            {
+                "exercise": "Good Mornings",
+                "weight": "", 
+                "reps": [15, 15, 15],
+                "note": ""
+            },
+            {
+                "exercise": "Bicep Curls",
+                "weight": "", 
+                "reps": [8, 8, 8],
+                "note": ""
+            },
+        ]
     }
 
 ]
