@@ -481,11 +481,131 @@
                 "weight": "", 
                 "reps": [12, 12, 12],
                 "note": ""
-            },
+            }
         ]
     },
     {
-        "type": "heavy posterior",
+        "type": "Heavy Anterior",
+        "date": "5/10/20",
+        "exercises": [
+            {
+                "exercise": "Front Squat",
+                "weight": "+80", 
+                "reps": [8, 10, 10, 10, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Lunges",
+                "weight": "+80", 
+                "reps": [14, 14, 14, 14, 14],
+                "note": ""
+            },
+            {
+                "exercise": "Free Standing Handstand Push Up",
+                "weight": "bw", 
+                "reps": [5, 5, 5, 5, 5],
+                "note": ""
+            },
+            {
+                "exercise": "Deep Push Up",
+                "weight": "+50", 
+                "reps": [5, 5, 5, 5, 5],
+                "note": ""
+            },
+            {
+                "exercise": "Sissy Squat",
+                "weight": "", 
+                "reps": [12, 10, 10, 10, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Dips",
+                "weight": "+30", 
+                "reps": [10, 10, 10],
+                "note": ""
+            }
+        ]
+    },
+    {
+        "type": "Medium Posterior",
+        "date": "6/10/20",
+        "exercises": [
+            {
+                "exercise": "Good Mornings",
+                "weight": "+20", 
+                "reps": [12, 12, 12],
+                "note": ""
+            },
+            {
+                "exercise": "Hip Thrust",
+                "weight": "+30", 
+                "reps": [12, 12, 12],
+                "note": ""
+            },
+            {
+                "exercise": "Pull Ups",
+                "weight": "bw", 
+                "reps": [12, 12, 12],
+                "note": ""
+            },
+            {
+                "exercise": "Weighted Rows",
+                "weight": "+20", 
+                "reps": [8, 8, 8],
+                "note": ""
+            },
+            {
+                "exercise": "Rear Delt Raises",
+                "weight": "", 
+                "reps": [8],
+                "note": ""
+            },
+            {
+                "exercise": "Bicep Curls",
+                "weight": "+10", 
+                "reps": [15, 15, 15],
+                "note": ""
+            }
+        ]
+    },
+    {
+        "type": "Medium Anterior",
+        "date": "7/10/20",
+        "exercises": [
+            {
+                "exercise": "Goblet Squats",
+                "weight": "+30", 
+                "reps": [12, 12, 12],
+                "note": ""
+            },
+            {
+                "exercise": "Bulgarian Split Squat",
+                "weight": "+20", 
+                "reps": [16, 16, 16],
+                "note": "Total reps for both legs"
+            },
+            {
+                "exercise": "Pike Push Up",
+                "weight": "bw", 
+                "reps": [10, 10, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Deep Push Up",
+                "weight": "+20", 
+                "reps": [10, 10, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Side Squat",
+                "weight": "bw", 
+                "reps": [12, 12, 12],
+                "note": "Reps for each leg"
+            }
+        ]
+    },
+    {
+        "type": "Heavy Posterior",
         "date": "8/10/20",
         "exercises": [
             {
@@ -523,8 +643,164 @@
                 "weight": "", 
                 "reps": [8, 8, 8],
                 "note": ""
-            },
+            }
         ]
-    }
+    },
+    {
+        "type": "Volume Anterior",
+        "date": "9/10/20",
+        "exercises": [
+            {
+                "exercise": "Squat",
+                "weight": "+20", 
+                "reps": [35, 35, 35],
+                "note": ""
+            },
+            {
+                "exercise": "Leg Extensions",
+                "weight": "bw", 
+                "reps": [10, 10, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Push Ups",
+                "weight": "bw", 
+                "reps": [20, 20, 20],
+                "note": ""
+            },
+            {
+                "exercise": "Pike Push Ups",
+                "weight": "bw", 
+                "reps": [10, 10, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Sissy Squat",
+                "weight": "bw", 
+                "reps": [10, 10, 10],
+                "note": ""
+            }
+        ]
+    },
+    {
+        "type": "Heavy Anterior",
+        "date": "12/10/20",
+        "exercises": [
+            {
+                "exercise": "Front Squat",
+                "weight": "+80", 
+                "reps": [10, 10, 10, 10 , 10],
+                "note": ""
+            },
+            {
+                "exercise": "Lunges",
+                "weight": "+80", 
+                "reps": [8, 8, 8, 8, 8],
+                "note": "Reps for each leg"
+            },
+            {
+                "exercise": "Free Standing Handstand Push Up",
+                "weight": "bw", 
+                "reps": [5, 5, 5, 5, 5],
+                "note": "Reach at least 5, with negatives"
+            },
+            {
+                "exercise": "Deep Push Up",
+                "weight": "+50", 
+                "reps": [5, 6, 5, 5, 6],
+                "note": ""
+            },
+            {
+                "exercise": "Sissy Squat",
+                "weight": "bw", 
+                "reps": [12, 12, 12, 12, 12],
+                "note": ""
+            },
+            {
+                "exercise": "Dips",
+                "weight": "+30", 
+                "reps": [14, 14, 14],
+                "note": ""
+            }
+        ]
+    },
+    {
+        "type": "Medium Posterior",
+        "date": "14/10/20",
+        "exercises": [
+            {
+                "exercise": "Romanian Deadlifts",
+                "weight": "+60", 
+                "reps": [12, 12, 12],
+                "note": ""
+            },
+            {
+                "exercise": "Hip Thrust",
+                "weight": "+30", 
+                "reps": [12, 15, 15],
+                "note": ""
+            },
+            {
+                "exercise": "Pull Ups",
+                "weight": "+20", 
+                "reps": [8, 8, 8],
+                "note": ""
+            },
+            {
+                "exercise": "Decline Body Rows",
+                "weight": "bw", 
+                "reps": [8, 8, 8],
+                "note": "Slow tempo"
+            },
+            {
+                "exercise": "Rear Delt Raises",
+                "weight": "bw", 
+                "reps": [10, 10, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Bicep Curls",
+                "weight": "+20", 
+                "reps": [9, 9, 9],
+                "note": ""
+            }
+        ]
+    },
+    {
+        "type": "Medium Anterior",
+        "date": "15/10/20",
+        "exercises": [
+            {
+                "exercise": "Goblet Squats",
+                "weight": "+30", 
+                "reps": [12, 12, 12],
+                "note": "slow tempo, add more reps next time"
+            },
+            {
+                "exercise": "Bulgarian Split Squat",
+                "weight": "+20", 
+                "reps": [9, 10, 10],
+                "note": "Reps for each leg, add more reps next time"
+            },
+            {
+                "exercise": "Pike Push Up",
+                "weight": "bw", 
+                "reps": [12, 12, 10],
+                "note": ""
+            },
+            {
+                "exercise": "Deep Push Up",
+                "weight": "+20", 
+                "reps": [8, 8, 8],
+                "note": ""
+            },
+            {
+                "exercise": "Side Squat",
+                "weight": "bw", 
+                "reps": [12, 12, 12],
+                "note": "Reps for each leg"
+            }
+        ]
+    },
 
 ]
