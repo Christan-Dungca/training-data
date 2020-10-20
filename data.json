@@ -880,5 +880,47 @@
         "note": ""
       }
     ]
-  }
+  },
+  {
+    "type": "Medium Posterior",
+    "date": "20/10/20",
+    "exercises": [
+      {
+        "exercise": "Romanian Deadlifts",
+        "weight": "+60",
+        "reps": [12, 12, 12],
+        "note": ""
+      },
+      {
+        "exercise": "Hip Thrust",
+        "weight": "+30",
+        "reps": [14, 14, 15],
+        "note": ""
+      },
+      {
+        "exercise": "Pull Ups",
+        "weight": "+20",
+        "reps": [8, 8, 8],
+        "note": ""
+      },
+      {
+        "exercise": "Decline Body Rows",
+        "weight": "bw",
+        "reps": [8, 10, 10],
+        "note": "Slow tempo"
+      },
+      {
+        "exercise": "Rear Delt Raises",
+        "weight": "bw",
+        "reps": [8, 8, 8],
+        "note": ""
+      },
+      {
+        "exercise": "Bicep Curls",
+        "weight": "+20",
+        "reps": [9, 8, 8],
+        "note": ""
+      }
+    ]
+  },
 ]
