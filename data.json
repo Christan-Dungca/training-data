@@ -923,4 +923,46 @@
       }
     ]
   },
+  {
+    "type": "Heavy Anterior",
+    "date": "26/10/20",
+    "exercises": [
+      {
+        "exercise": "Squat",
+        "weight": "+80",
+        "reps": [8, 8, 8, 8, 8],
+        "note": "Pause at the bottom"
+      },
+      {
+        "exercise": "Lunges",
+        "weight": "+80",
+        "reps": [10, 9, 9, 9, 9],
+        "note": "Reps for each leg"
+      },
+      {
+        "exercise": "Free Standing Handstand Push Up",
+        "weight": "bw",
+        "reps": [3, 3, 3],
+        "note": "Only counting completed reps, reps within a minute"
+      },
+      {
+        "exercise": "Deep Push Up",
+        "weight": "+50",
+        "reps": [5, 6, 6, 6, 6],
+        "note": ""
+      },
+      {
+        "exercise": "Sissy Squat",
+        "weight": "bw",
+        "reps": [14, 14, 14],
+        "note": ""
+      },
+      {
+        "exercise": "Dips",
+        "weight": "+30",
+        "reps": [14, 14, 14],
+        "note": ""
+      }
+    ]
+  }
 ]
